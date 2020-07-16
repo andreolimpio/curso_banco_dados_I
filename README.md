@@ -1,2 +1,2 @@
 # curso_banco_dados_I
-Códigos do curso de "Modelagem de Dados".
+Conteúdo e códigos do curso de "Banco de Dados I - Modelagem de Dados".
